@@ -1,0 +1,10 @@
+project: 
+  type: website
+
+website: 
+  title: "Kai Suzuki"
+  navbar: 
+    left: 
+      - href: index.qmd
+      - aboutme.qmd
+      
