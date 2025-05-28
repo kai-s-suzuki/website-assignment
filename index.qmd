@@ -1,4 +1,5 @@
 ---
+format: html
 title: "Kai Suzuki"
 image: profile.png
 about: 
